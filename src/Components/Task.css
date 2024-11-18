@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#delete {
+    position: relative;
+}
+
+#delete::after {
+    content: 'Delete Task';
+    position: absolute;
+    bottom: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgb(227, 52, 52);
+    color: white;
+    padding: 4px 8px;
+    font-size: 12px;
+    border-radius: 20px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.2s ease-in-out;
+    /* z-index: 50; */
+}
+
+#delete:hover::after {
+    opacity: 1;
+    bottom: -60%;
+}
