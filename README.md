@@ -101,5 +101,3 @@ cd TaskMap
 <img src="https://drive.google.com/uc?id=1h5XzxWUj8OsAT1oCxvXkOghvTeZyqs47" alt="Task Management" width="600"/>
 
 ---
-
-By adding better contrast (black text/logos for Axios and JWT), this version ensures all technologies are presented more uniformly. Let me know if you'd like to adjust further!
