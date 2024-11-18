@@ -1,6 +1,3 @@
-The text sections for **Axios**, **JWT Authentication**, and **Tools** don't have associated logos, which may make them less visually appealing compared to other entries. Here’s an improved version with adjusted styling and logo additions for better visibility:
-
----
 
 # TaskMap 1.0 🚀
 
@@ -86,11 +83,6 @@ cd TaskMap
    ```bash
    npm start
    ```
-
----
-
-Let me know if you'd like to make more edits! 😊
-
 ---
 
 ## Screenshots & Videos 📸
